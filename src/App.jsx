@@ -6,7 +6,7 @@ import ContentPost from "./components/ContentPost";
 function App() {
    return (
     <>
-    <Header className="bg-slate-50 flex p-3 shadow-xl items-center">
+    <Header className="bg-slate-50 flex p-3 shadow-xl items-center ">
       <h1 className="ml-5 font-bold text-2xl">FS34Blog</h1>
       <FormBase className="ml-5 ">
         <input className="rounded-md border-slate-950 border" type="text"  />
